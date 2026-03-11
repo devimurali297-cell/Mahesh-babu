@@ -1,5 +1,5 @@
 x=10
-if(x,9)
+if(x>0)
 {
-printf(positive)
+print(positive)
 }
